@@ -1,0 +1,8 @@
+npm install styled-components
+npm install @types/styled-components -D  -> instalar -D = instalar como dependência
+
+
+dark reader: extensão do google chrome para deixar a tela dark 
+
+instalar vscode-styled-components
+
