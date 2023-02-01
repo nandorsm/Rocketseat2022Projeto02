@@ -6,3 +6,17 @@ dark reader: extensão do google chrome para deixar a tela dark
 
 instalar vscode-styled-components
 
+
+npm i eslint -D
+npm i @rocketseat/eslint-config -D
+npx eslint --init
+npx eslint src --ext .ts,.tsx
+npx eslint src --ext .ts,.tsx --fix
+
+após configurar nos scripts no package.json
+npm run lint
+npm run lint --fix
+
+
+
+
