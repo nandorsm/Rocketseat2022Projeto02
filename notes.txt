@@ -4,7 +4,9 @@ npm install @types/styled-components -D  -> instalar -D = instalar como dependê
 
 dark reader: extensão do google chrome para deixar a tela dark 
 
+Extensão:
 instalar vscode-styled-components
+ESLint
 
 
 npm i eslint -D
