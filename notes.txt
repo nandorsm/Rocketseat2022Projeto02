@@ -21,4 +21,5 @@ npm run lint --fix
 
 npm i react-router-dom
 
+npm install react-hook-form //PARA FORMULARIOS
 
