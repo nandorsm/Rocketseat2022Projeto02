@@ -26,3 +26,5 @@ npm i zod //PARA VALIDAR FORMULÁRIOS
 npm i @hookform/resolvers //INTEGRAR HOOK FORM COM A VALIDAÇÃO
 
 utilizar o typeof para referenciar variáveis javascript no typescript
+
+npm i date-fns // tem uma função para calcular duas datas em segundos (differenceInSeconds)
