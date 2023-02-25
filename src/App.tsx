@@ -4,6 +4,7 @@ import { Router } from './Router'
 
 import { GlobalStyle } from './styles/global'
 import { defaultTheme } from './styles/themes/default'
+// import { Home } from './Home'
 
 export function App() {
   return (
@@ -14,5 +15,6 @@ export function App() {
 
       <GlobalStyle />
     </ThemeProvider>
+    // <Home /> // explaining CONTEXT
   )
 }
